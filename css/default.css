@@ -1,0 +1,74 @@
+* {
+    box-sizing: border-box
+}
+
+body {
+    font-family: "Lato", sans-serif;
+    background-image: url('../images/background.jpg');
+    background-repeat: no-repeat;
+}
+
+img {
+    width: 100%;
+    /* or any custom size */
+    height: 100%;
+    object-fit: contain;
+}
+
+/* Header/Logo Title */
+.header {
+    padding: 5px;
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    background-image: url('../images/header-bg.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+/* Style the tab */
+.tab {
+    float: left;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+    width: 10%;
+    height: 100%;
+}
+
+/* Style the buttons inside the tab */
+.tab button {
+    display: block;
+    background-color: inherit;
+    color: black;
+    padding: 10% 5%;
+    width: 100%;
+    border: none;
+    outline: none;
+    text-align: left;
+    cursor: pointer;
+    transition: 0.3s;
+    font-size: 17px;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+    background-color: #ddd;
+}
+
+/* Create an active/current "tab button" class */
+.tab button.active {
+    background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+    float: left;
+    padding: 0px 12px;
+    border: 1px solid #ccc;
+    width: 90%;
+    border-left: none;
+    height: 100%;
+    background-image: url('../images/content-bg.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
