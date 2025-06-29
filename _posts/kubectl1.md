@@ -1,11 +1,11 @@
 ---
-title: "kubectl non-dated"
+title: "kubectl1 non-dated"
 date: 2025-06-29 00:00:00 +0800
 categories: [kubernetes]
 tags: [kubernetes]
 ---
 
-# kubectl
+# kubectl1
 ---
 The Kubernetes command-line tool, `kubectl`, allows you to run commands against Kubernetes clusters. You can use kubectl to deploy applications, inspect and manage cluster resources, and view logs.
 
