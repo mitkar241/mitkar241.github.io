@@ -7,6 +7,14 @@ tags: [linux]
 
 ---
 
+# Linux Troubleshooting
+---
+
+#### Resources:
+- [Top 100+ Linux Interview Questions and Answers (2025) - Naukri Code 360](https://www.naukri.com/code360/library/linux-interview-questions)
+
+---
+
 ### How do you check disk space usage on a Linux system?
 
 To check disk space usage, you can use the df command:
