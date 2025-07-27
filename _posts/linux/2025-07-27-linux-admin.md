@@ -7,12 +7,12 @@ tags: [linux]
 
 ---
 
+# Linux Admin
+---
+
 #### Resources:
 - [Top 100+ Linux Interview Questions and Answers (2025) - Naukri Code 360](https://www.naukri.com/code360/library/linux-interview-questions)
 
----
-
-# Linux Admin
 ---
 
 ### What is the purpose of the /etc/passwd file?
